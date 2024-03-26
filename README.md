@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
-<H3>EX. NO.1</H3>
-<H3>DATE</H3>
+<H3>ENTER YOUR NAME</H3> Nithish DM
+<H3>ENTER YOUR REGISTER NO.</H3> 212223230144
+<H3>EX. NO.1</H3> Introduction to Kaggle and Data Preprocessing
+<H3>DATE</H3> 20.03.24
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
@@ -37,11 +37,14 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
-TYPE YOUR CODE HERE
+![image](https://github.com/Mrnithishx/Ex-1-NN/assets/148201573/505d255d-f684-4684-afaa-723e4593c556)
+
 
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+![image](https://github.com/Mrnithishx/Ex-1-NN/assets/148201573/9f476a70-dd08-4bd9-9111-dee7a5783d75)
+![image](https://github.com/Mrnithishx/Ex-1-NN/assets/148201573/bc739559-9fe1-4370-91a5-75592b075651)
+![image](https://github.com/Mrnithishx/Ex-1-NN/assets/148201573/b2aed04e-d40c-43da-8f00-78d6c5929ea6)
 
 
 ## RESULT:
